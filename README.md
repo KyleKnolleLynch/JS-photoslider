@@ -1,2 +1,2 @@
-#JS photoslider 
+# JSphotoSlider
 A simple javascript photo slider project
