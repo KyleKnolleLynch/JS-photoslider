@@ -1,6 +1,11 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     margin: 20px;
-    padding: 0;
     background: #333;
 }
 
@@ -11,6 +16,27 @@ body {
     background:#fff;
 }
 
+.container-header {
+    margin-bottom: 3px;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+.title-text h1 {
+    font-size: 50px;
+}
+
+.title-text h2 {
+    font-size: 40px;
+}
+
+.title-text h4 {
+    font-size: 20px;
+    padding:5px 0;
+}
+
+
 .main-img img,
 .imgs img {
     width:100%;
@@ -20,6 +46,13 @@ body {
     display: grid;
     grid-template-columns:repeat(4, 1fr);
     grid-gap:5px;
+}
+
+.footer h4{
+    text-align: center;
+    margin: auto;
+    padding: 5px 0;
+    color: #fff;
 }
 
 
