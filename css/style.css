@@ -33,6 +33,7 @@ main {
 
 .container-slider {
     max-width: 900px;
+    margin: auto;
 }
 
 .main-img img,
