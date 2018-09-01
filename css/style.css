@@ -19,8 +19,7 @@ main {
     text-align: center;
     color: #444;
 }
-.container {
-}
+
 
 .container-header {
     margin-bottom: 10vh;
@@ -30,6 +29,10 @@ main {
 .title-text h1 {
     font-size: 40px; 
     margin-top: 4vh;   
+}
+
+.container-slider {
+    max-width: 900px;
 }
 
 .main-img img,
